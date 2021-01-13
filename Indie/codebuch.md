@@ -21,7 +21,7 @@ codiert nach Anfangsbuchstaben der Künstler_innen und Bands, jede ID entspricht
 **weight**  
 Beziehungsstärke 
 3 = Feature (Gemeinsamer Song),  
-0 = starke Beziehung vorhanden (zweite Nennung)
+0 = gemeinsam auf der Bühne gestanden (Support/Vorband)
 --> Evtl. dritte Beziehung = gemeinsames Label
 
 # NODE-Attribute  
